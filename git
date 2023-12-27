@@ -1,0 +1,30 @@
+[33mcommit cca44bb51fd9ef5882e8894afb079579bb2ff997[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: GauravJoshiJi <gauravjoshi1997.joshi@gmail.com>
+Date:   Wed Dec 27 15:22:13 2023 +0530
+
+    3-commit:- models and connection to mongo
+
+[33mcommit 5c9586265bee82e3a9d01f1e57f9cd85620d9e21[m
+Merge: 5d1e86f 0c75164
+Author: GauravJoshiJi <gauravjoshi1997.joshi@gmail.com>
+Date:   Wed Dec 27 14:53:11 2023 +0530
+
+    Merge branch 'main' of https://github.com/GauravJoshiJi/TDL03
+
+[33mcommit 5d1e86f03a08f4035547fbb20f64c0b71a97ef9f[m
+Author: GauravJoshiJi <gauravjoshi1997.joshi@gmail.com>
+Date:   Wed Dec 27 14:52:28 2023 +0530
+
+    2-commit:- server creation
+
+[33mcommit 0c75164126f688f6c30e5deea9c47af20b733490[m
+Author: Gaurav Joshi <125949334+GauravJoshiJi@users.noreply.github.com>
+Date:   Wed Dec 27 14:48:48 2023 +0530
+
+    Create README.md
+
+[33mcommit ce72e11a5356bfed1cef94b4b2d2316ad977a7ad[m
+Author: GauravJoshiJi <gauravjoshi1997.joshi@gmail.com>
+Date:   Wed Dec 27 14:46:57 2023 +0530
+
+    First commit

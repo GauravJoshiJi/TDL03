@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const userScript = new mongoose.Script({
+const userSchema = new mongoose.Schema({
   email: {
     type: String,
     require: true,
@@ -12,7 +12,13 @@ const userScript = new mongoose.Script({
     type: String,
     require: true,
   },
+  list: [
+    {
+      type: mongoose.Types.ObjectId,
+      ref: "List",
+    },
+  ],
 });
 
-const userModel = mongoose.model("User", userScript);
+const userModel = mongoose.model("User", userSchema);
 module.exports = userModel;
